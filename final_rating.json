@@ -1,0 +1,352 @@
+{
+    "gif_1697008588348270336.gif": {
+        "std": 2.83,
+        "avg": 3.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": -1
+    },
+    "gif_1699188455033316352.gif": {
+        "std": 2.36,
+        "avg": 0.67,
+        "naiyan": 4,
+        "zehao": -1,
+        "hongyang": -1
+    },
+    "gif_1698120994937545472.gif": {
+        "std": 2.05,
+        "avg": 2.67,
+        "naiyan": 5,
+        "zehao": 3,
+        "hongyang": 0
+    },
+    "gif_1697866578402627328.gif": {
+        "std": 1.7,
+        "avg": 0.67,
+        "naiyan": 3,
+        "zehao": 0,
+        "hongyang": -1
+    },
+    "gif_1697932766377186048.gif": {
+        "std": 1.7,
+        "avg": 2.33,
+        "naiyan": 3,
+        "zehao": 4,
+        "hongyang": 0
+    },
+    "gif_1698217573147487744.gif": {
+        "std": 1.41,
+        "avg": 2.0,
+        "naiyan": 3,
+        "zehao": 0,
+        "hongyang": 3
+    },
+    "gif_1696414163944157184.gif": {
+        "std": 1.25,
+        "avg": 3.67,
+        "naiyan": 2,
+        "zehao": 5,
+        "hongyang": 4
+    },
+    "gif_1696373729335704320.gif": {
+        "std": 0.94,
+        "avg": 0.67,
+        "naiyan": 2,
+        "zehao": 0,
+        "hongyang": 0
+    },
+    "gif_1696902120849672448.gif": {
+        "std": 0.94,
+        "avg": 4.33,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 3
+    },
+    "gif_1696925128072149504.gif": {
+        "std": 0.94,
+        "avg": 4.33,
+        "naiyan": 3,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1700534524285553152.gif": {
+        "std": 0.82,
+        "avg": 4.0,
+        "naiyan": 4,
+        "zehao": 5,
+        "hongyang": 3
+    },
+    "gif_1696383684202255616.gif": {
+        "std": 0.47,
+        "avg": 3.67,
+        "naiyan": 3,
+        "zehao": 4,
+        "hongyang": 4
+    },
+    "gif_1696384103968727040.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 4,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1696661912142188800.gif": {
+        "std": 0.47,
+        "avg": 4.33,
+        "naiyan": 4,
+        "zehao": 5,
+        "hongyang": 4
+    },
+    "gif_1696677103210208768.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 4
+    },
+    "gif_1696924542523876096.gif": {
+        "std": 0.47,
+        "avg": 3.67,
+        "naiyan": 4,
+        "zehao": 4,
+        "hongyang": 3
+    },
+    "gif_1696924837090984960.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 4,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1696942892945796096.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 4,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1697243795196122368.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 4,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1697602585580402688.gif": {
+        "std": 0.47,
+        "avg": 0.33,
+        "naiyan": 1,
+        "zehao": 0,
+        "hongyang": 0
+    },
+    "gif_1697934762676763648.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 4,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1698722340666601472.gif": {
+        "std": 0.47,
+        "avg": 3.67,
+        "naiyan": 4,
+        "zehao": 3,
+        "hongyang": 4
+    },
+    "gif_1698743153134259968.gif": {
+        "std": 0.47,
+        "avg": 4.33,
+        "naiyan": 4,
+        "zehao": 5,
+        "hongyang": 4
+    },
+    "gif_1699350248856521728.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 5,
+        "zehao": 4,
+        "hongyang": 5
+    },
+    "gif_1699517466290642688.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 5,
+        "zehao": 4,
+        "hongyang": 5
+    },
+    "gif_1699685119007928064.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 5,
+        "zehao": 4,
+        "hongyang": 5
+    },
+    "gif_1699770105479869696.gif": {
+        "std": 0.47,
+        "avg": 4.33,
+        "naiyan": 4,
+        "zehao": 4,
+        "hongyang": 5
+    },
+    "gif_1700363440048452608.gif": {
+        "std": 0.47,
+        "avg": 4.67,
+        "naiyan": 4,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1696381716734738432.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1696559698119789824.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1696807930324296192.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1696844190021180928.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1696890243133840896.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1697374654001428224.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1697531966851968512.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1697857664742242048.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1697972674142646016.gif": {
+        "std": 0.0,
+        "avg": 4.0,
+        "naiyan": 4,
+        "zehao": 4,
+        "hongyang": 4
+    },
+    "gif_1698049556830481152.gif": {
+        "std": 0.0,
+        "avg": 4.0,
+        "naiyan": 4,
+        "zehao": 4,
+        "hongyang": 4
+    },
+    "gif_1698373213235497472.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1698472314986616576.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1698558146567020544.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1698560675546273792.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1698818721657289728.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1699096206921669376.gif": {
+        "std": 0.0,
+        "avg": 4.0,
+        "naiyan": 4,
+        "zehao": 4,
+        "hongyang": 4
+    },
+    "gif_1699096452355660032.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1699100767866115328.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1699606612192280832.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1699618194637138688.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1699862751238961408.gif": {
+        "std": 0.0,
+        "avg": 5.0,
+        "naiyan": 5,
+        "zehao": 5,
+        "hongyang": 5
+    },
+    "gif_1700312163255488512.gif": {
+        "std": 0.0,
+        "avg": 0.0,
+        "naiyan": 0,
+        "zehao": 0,
+        "hongyang": 0
+    }
+}
